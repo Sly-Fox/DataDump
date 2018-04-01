@@ -1,0 +1,9 @@
+
+This is only a test.
+07164354d2facc5518205e345e0d276a5477fb6a665e70b98f3b1b4836e17d59aa0ad1113d3a330f67cf81e13ee0105c69e50e3b09ea5bc6f85840bc9e6c3ca2
+It's called a hustle, sweetheart...
+d9011253a7c9c780d34fe3cef19a516ffff56c4a194f2c3cde4d812985d097d583ecae8125fcfb518b00a48c6120e6ee3460d3e6446bab78655b5473fb283c96
+The birthday problem asks, for a set of n randomly chosen people, what is the probability that some pair of them will have the same birthday? By the pigeonhole principle, if there are 367 people in the room, we know that there is at least one pair who share the same birthday, as there are only 366 possible birthdays to choose from (including February 29, if present). The birthday "paradox" refers to the result that even if the group is as small as 23 individuals, the probability that there is a pair of people with the same birthday is still above 50%. While at first glance this may seem surprising, it intuitively makes sense when considering that a comparison will actually be made between every possible pair of people rather than fixing one individual and comparing them solely to the rest of the group.
+ab903c32b626509532e27cfda0159f6c0c50a430acde9c5392c617b281a6f3b24e6a58c2919849bd3661ec4855d763c8515bd147e4aa7464bcc9f888e87c47e3
+q
+2e96772232487fb3a058d58f2c310023e07e4017c94d56cc5fae4b54b44605f42a75b0b1f358991f8c6cbe9b68b64e5b2a09d0ad23fcac07ee9a9198a745e1d5
